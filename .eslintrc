@@ -182,8 +182,8 @@
         }],
         "space-after-keywords": 0,          // http://eslint.org/docs/rules/space-after-keywords
         "space-before-blocks": [2, {        // http://eslint.org/docs/rules/space-before-blocks
-            "functions": "never", 
-            "keywords": "never", 
+            "functions": "never",
+            "keywords": "never",
             "classes": "always"
         }],
         "keyword-spacing": [0, {            // http://eslint.org/docs/rules/keyword-spacing
