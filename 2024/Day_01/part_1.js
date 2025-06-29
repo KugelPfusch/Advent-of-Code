@@ -17,7 +17,6 @@ const pStart = performance.now();
 let left = [];
 let right = [];
 let res = 0;
-let diff = 0;
 
 INPUT.forEach((line, idx) => {
     [left[idx], right[idx]] = line.split("   ");
